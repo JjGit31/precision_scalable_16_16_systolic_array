@@ -1,0 +1,24 @@
+# Vivado project / simulator outputs
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.vcd
+xsim.dir/
+project_*/
+vivado_project/
+
+# Generated synthesis and power outputs
+netlist/
+reports*/
+logs/
+sim/
+vcd/
+*.db
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/

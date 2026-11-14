@@ -1,0 +1,5 @@
+rtl/actual_adder.v
+rtl/parallel_precision_scalable_multiplier_pe.v
+rtl/precision_scalable_mac_pe_en.v
+rtl/precision_packed_tile_4x4.v
+rtl/precision_packed_systolic_array.v
